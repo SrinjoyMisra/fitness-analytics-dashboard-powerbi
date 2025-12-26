@@ -45,4 +45,4 @@ Trainer performance and class feedback forms.
 
 📊 Visual Storytelling – Easy-to-understand charts, KPIs, and dashboards for non-technical users.
 
-# Fitness Dashboard [https://github.com/SrinjoyMisra/fitness-analytics-dashboard-powerbi/blob/main/Fitness%202.png]
+# Fitness Dashboard ![image alt](https://github.com/SrinjoyMisra/fitness-analytics-dashboard-powerbi/blob/main/Fitness%202.png)
